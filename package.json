@@ -1,0 +1,22 @@
+{
+  "name": "fatigue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertpenner/fatigue.js.git"
+  },
+  "keywords": [
+    "fatigue"
+  ],
+  "author": "Robert Penner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertpenner/fatigue.js/issues"
+  },
+  "homepage": "https://github.com/robertpenner/fatigue.js#readme"
+}
